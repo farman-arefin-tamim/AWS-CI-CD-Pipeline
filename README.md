@@ -49,10 +49,7 @@ This architecture ensures that your users always see the latest version of the a
 ### 📊 Architecture Diagram
 
 > ** DevOps Workflow Diagram here:**
->
-> 
-> ```markdown
-> ![AWS CI/CD Pipeline Architecture](./src/assets/aws-codepipeline.drawio.png)
-> ```
->
+
+
+![AWS CI/CD Pipeline Architecture](./src/assets/aws-codepipeline.drawio.png)
 
